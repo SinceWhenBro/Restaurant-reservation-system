@@ -220,6 +220,10 @@ so that reservations are accurate and current.
    - Clicking the "Submit" button will save the reservation, then displays the previous page.
    - Clicking "Cancel" makes no changes, then display the previous page.
 
+##Images
+
+https://user-images.githubusercontent.com/80596387/141701747-f7487e7b-3c8a-4ae8-9145-88d0b54062b2.png
+
 # Installation Insturctions
 
 >1. run 'npm install --legacy-peer-deps'
